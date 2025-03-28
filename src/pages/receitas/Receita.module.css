@@ -1,0 +1,8 @@
+a {
+    color: inherit; /* Herda a cor do texto do elemento pai */
+    text-decoration: none; /* Remove o sublinhado */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+  }
